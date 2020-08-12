@@ -1,10 +1,10 @@
 #pragma once
 
-namespace Teste
+namespace TesteClass
 {
 	class my_teste
 	{
 		public:
-			void mostraTest();
+			void MostraTest();
 	};
 }

@@ -1,6 +1,6 @@
 #include "Teste.h"
 #include <iostream>
-void Teste::my_teste::mostraTest()
+void TesteClass::my_teste::MostraTest()
 {
 	std::cout << "\nteste saiu\n";
 }
