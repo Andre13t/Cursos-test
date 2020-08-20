@@ -140,13 +140,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ConditionalOperator.cpp" />
     <ClCompile Include="SeparadorMoedas.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="StringManipulcao.cpp" />
+    <ClCompile Include="SwitchCase.cpp" />
     <ClCompile Include="Teste.cpp" />
     <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ConditionalOperator.h" />
     <ClInclude Include="SeparadorMoedas.h" />
+    <ClInclude Include="StringManipulcao.h" />
+    <ClInclude Include="SwitchCase.h" />
     <ClInclude Include="Teste.h" />
     <ClInclude Include="Vector.h" />
   </ItemGroup>

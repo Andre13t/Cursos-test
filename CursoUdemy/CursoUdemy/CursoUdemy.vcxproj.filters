@@ -27,6 +27,15 @@
     <ClCompile Include="SeparadorMoedas.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="SwitchCase.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="StringManipulcao.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="ConditionalOperator.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Vector.h">
@@ -36,6 +45,15 @@
       <Filter>Arquivos de Origem</Filter>
     </ClInclude>
     <ClInclude Include="SeparadorMoedas.h">
+      <Filter>Arquivos de Origem</Filter>
+    </ClInclude>
+    <ClInclude Include="SwitchCase.h">
+      <Filter>Arquivos de Origem</Filter>
+    </ClInclude>
+    <ClInclude Include="StringManipulcao.h">
+      <Filter>Arquivos de Origem</Filter>
+    </ClInclude>
+    <ClInclude Include="ConditionalOperator.h">
       <Filter>Arquivos de Origem</Filter>
     </ClInclude>
   </ItemGroup>

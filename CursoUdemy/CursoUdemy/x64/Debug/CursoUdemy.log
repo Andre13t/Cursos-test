@@ -1,0 +1,8 @@
+﻿  SeparadorMoedas.cpp
+  Main.cpp
+  SwitchCase.cpp
+  Teste.cpp
+  Vector.cpp
+  Gerando Código...
+Vector.obj : error LNK2005: main já definida no Main.obj
+E:\GitHub repositorios\Cursos-test\CursoUdemy\x64\Debug\CursoUdemyVS.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos
