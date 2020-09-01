@@ -28,7 +28,7 @@ void SeparadorMoedasClass::my_SeparadorMoedas::Separador(int valor)
 	valor %= moedaCinco;
 	um = valor / moedaUm;
 	
-	std::cout<<"Valor de :'" << valorInicial << "' centavos em quantidades de moedas:\n"<<umReal<<" Um real,\n" <<
+	std::cout<<"Valor de :\"" << valorInicial << "\" centavos em quantidades de moedas:\n"<<umReal<<" Um real,\n" <<
 				cinquenta << " Cinquenta centavos,\n" << vinteCinco << " Vinte e cinco centavos,\n" 
 				<< dez << " Dez centavos,\n" << cinco << " Cinco centavos,\n" << um << " Um centavo.";
 }

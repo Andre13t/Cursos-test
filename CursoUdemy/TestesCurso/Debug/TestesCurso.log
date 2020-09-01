@@ -1,0 +1,3 @@
+﻿  Entre.cpp
+Entre.obj : error LNK2019: símbolo externo não resolvido, "public: void __thiscall SeparadorMoedasClass::my_SeparadorMoedas::Separador(int)" (?Separador@my_SeparadorMoedas@SeparadorMoedasClass@@QAEXH@Z), referenciado na função _main
+E:\GitHub repositorios\Cursos-test\CursoUdemy\Debug\TestesCurso.exe : fatal error LNK1120: 1 externo não resolvidos

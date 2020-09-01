@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConditionalOperator.cpp" />
+    <ClCompile Include="DesafioProgramFlow.cpp" />
     <ClCompile Include="SeparadorMoedas.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="StringManipulcao.cpp" />
@@ -150,6 +151,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ConditionalOperator.h" />
+    <ClInclude Include="DesafioProgramFlow.h" />
     <ClInclude Include="SeparadorMoedas.h" />
     <ClInclude Include="StringManipulcao.h" />
     <ClInclude Include="SwitchCase.h" />

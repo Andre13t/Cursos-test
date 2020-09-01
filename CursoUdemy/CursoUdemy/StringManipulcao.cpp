@@ -14,4 +14,6 @@ void StringManipulcaoClass::my_StringManipulcao::stringParaInteiro(string palavr
 	cout << "O inteiro extraido da string e: " << o_meu_inteiro << endl;
 
 	cout << a_minha_string << endl;
+
+
 }
