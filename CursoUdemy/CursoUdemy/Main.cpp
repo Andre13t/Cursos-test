@@ -40,8 +40,8 @@ int main() {
 	//my_Desafio mDe;
 	//mDe.loop();
 
-	////task1
-	//my_task1 t1;
-	//t1.loop();
+	//task1
+	my_task1 t1;
+	t1.loop();
 	return 0;
 }
